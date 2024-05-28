@@ -7,6 +7,14 @@ Code to be released soon! Stay tuned!
 
 - Paper accepted for presentation on the CVPR2024 Workshop on Media Forensics
 
+## :chart_with_upwards_trend: Results
+
+![qualitative_eval](https://github.com/mever-team/omgfuser/assets/33910136/f9c3634d-a3b2-4a48-98b1-e9fb36344ac4)
+
+## :hammer: Architecture Overview
+
+![architecture_overview](https://github.com/mever-team/omgfuser/assets/33910136/3891995b-e81c-426b-b228-a4f23e14ea0a)
+
 ## :scroll: Citation
 
 ```
