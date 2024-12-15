@@ -1,0 +1,5 @@
+seg_model,seg_map,seg_score,class_id
+eva_coco,eva_coco_instance_0.png,0.679114580154419,19
+eva_elvis,eva_elvis_instance_0.png,0.820515513420105,488
+eva_elvis,eva_elvis_instance_1.png,0.7487870454788208,358
+eva_elvis,eva_elvis_instance_2.png,0.6769216656684875,422

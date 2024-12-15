@@ -1,0 +1,16 @@
+seg_model,seg_map,seg_score,class_id
+eva_coco,eva_coco_instance_0.png,0.9985703229904175,0
+eva_coco,eva_coco_instance_1.png,0.7515107989311218,73
+eva_coco,eva_coco_instance_2.png,0.6752397418022156,24
+eva_elvis,eva_elvis_instance_0.png,0.873264491558075,1007
+eva_elvis,eva_elvis_instance_1.png,0.762302041053772,1022
+eva_elvis,eva_elvis_instance_2.png,0.7548075318336487,1022
+eva_elvis,eva_elvis_instance_3.png,0.6050794720649719,950
+eva_elvis,eva_elvis_instance_4.png,0.6846342086791992,126
+eva_elvis,eva_elvis_instance_5.png,0.6354025602340698,947
+eva_elvis,eva_elvis_instance_6.png,0.5996503233909607,947
+eva_elvis,eva_elvis_instance_7.png,0.5997079610824585,594
+eva_elvis,eva_elvis_instance_8.png,0.5859132409095764,436
+eva_elvis,eva_elvis_instance_9.png,0.5736097693443298,927
+eva_elvis,eva_elvis_instance_10.png,0.528552234172821,33
+eva_elvis,eva_elvis_instance_11.png,0.5088685154914856,792
